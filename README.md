@@ -6,4 +6,4 @@ Dashboard 2 -https://public.tableau.com/views/Appleiphone-dashboard2/Dashboard2?
 
 Story -https://public.tableau.com/views/Appleiphone-story/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-video link -
+video link -https://drive.google.com/file/d/1cGgH9j1-79rkxZDVf5Cst4BdaG5LwQBY/view?usp=drivesdk
